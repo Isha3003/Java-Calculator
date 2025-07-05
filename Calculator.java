@@ -39,7 +39,7 @@ public class Calculator {
         return a/b;
     }
 
-    // Function to handle the calculator operations
+   
     public static String calculatorFunction(int userChoice, Scanner scanner) {
         int[] numbers = new int[2];
         String result = "";
